@@ -1,0 +1,13 @@
+.info {
+    width: 650px;
+    border-radius: 30px;
+    border: 10px solid rgb(0, 0, 0);
+    background-color: rgb(12, 29, 179);
+    padding: 5px;
+    font-weight: bolder;
+    color: rgb(255, 254, 251)
+}
+
+strong {
+    color: rgb(77, 218, 22);
+}
